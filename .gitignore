@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
